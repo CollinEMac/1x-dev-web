@@ -10,22 +10,22 @@
         <Menubar.Trigger>Listen Now</Menubar.Trigger>
         <Menubar.Content class="bg-slate-700 text-slate-200">
           <Menubar.Item>
-            Spotify
+            Spotify (coming soon)
           </Menubar.Item>
-          <Menubar.Item>
-            YouTube
-          </Menubar.Item>
+            <a href="https://www.youtube.com/channel/UCqasnYHmAYu2-7Ei6Fhh6cw">
+              <Menubar.Item>YouTube</Menubar.Item>
+            </a>
         </Menubar.Content>
       </Menubar.Menu>
       <Menubar.Menu>
         <Menubar.Trigger>Socials</Menubar.Trigger>
         <Menubar.Content class="bg-slate-700 text-slate-200">
-          <Menubar.Item>
-            Twitter
-          </Menubar.Item>
-          <Menubar.Item>
-            Email
-          </Menubar.Item>
+            <a href="https://x.com/1xDevPodcast">
+              <Menubar.Item>X/Twitter</Menubar.Item>
+            </a>
+            <a href="mailto:1xdeveloperpodcast@protonmail.com">
+                <Menubar.Item>Email</Menubar.Item>
+            </a>  
         </Menubar.Content>
       </Menubar.Menu>
     </Menubar.Root>
