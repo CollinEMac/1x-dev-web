@@ -9,12 +9,12 @@
       <Menubar.Menu>
         <Menubar.Trigger>Listen Now</Menubar.Trigger>
         <Menubar.Content class="bg-slate-700 text-slate-200">
-          <Menubar.Item>
-            Spotify (coming soon)
-          </Menubar.Item>
-            <a href="https://www.youtube.com/channel/UCqasnYHmAYu2-7Ei6Fhh6cw" target="_blank">
-              <Menubar.Item>YouTube</Menubar.Item>
-            </a>
+          <a href="https://open.spotify.com/show/1eXZqdw1wIgEmkpmi24ppX?si=e1d4c1866e2b4e67" target="_blank">
+            <Menubar.Item>Spotify</Menubar.Item>
+          </a>
+          <a href="https://www.youtube.com/channel/UCqasnYHmAYu2-7Ei6Fhh6cw" target="_blank">
+            <Menubar.Item>YouTube</Menubar.Item>
+          </a>
         </Menubar.Content>
       </Menubar.Menu>
       <Menubar.Menu>
@@ -34,8 +34,6 @@
     <h1 class="text-6xl">
         1x Developer Podcast
     </h1>
-    <p class="text-2xl pt-3">
-        coming soon...
-    </p>
+    <div id='buzzsprout-large-player' class="text-2xl pt-3"></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/2377219.js?container_id=buzzsprout-large-player&player=large'></script>
   </div>
 </body>
