@@ -12,7 +12,7 @@
           <Menubar.Item>
             Spotify (coming soon)
           </Menubar.Item>
-            <a href="https://www.youtube.com/channel/UCqasnYHmAYu2-7Ei6Fhh6cw">
+            <a href="https://www.youtube.com/channel/UCqasnYHmAYu2-7Ei6Fhh6cw" target="_blank">
               <Menubar.Item>YouTube</Menubar.Item>
             </a>
         </Menubar.Content>
@@ -20,7 +20,7 @@
       <Menubar.Menu>
         <Menubar.Trigger>Socials</Menubar.Trigger>
         <Menubar.Content class="bg-slate-700 text-slate-200">
-            <a href="https://x.com/1xDevPodcast">
+            <a href="https://x.com/1xDevPodcast" target="_blank">
               <Menubar.Item>X/Twitter</Menubar.Item>
             </a>
             <a href="mailto:1xdeveloperpodcast@protonmail.com">
