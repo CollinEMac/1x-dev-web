@@ -34,6 +34,8 @@
     <h1 class="text-6xl">
         1x Developer Podcast
     </h1>
-    <div id='buzzsprout-large-player' class="text-2xl pt-3"></div><script type='text/javascript' charset='utf-8' src='https://www.buzzsprout.com/2377219.js?container_id=buzzsprout-large-player&player=large'></script>
+    <div class="pt-5">
+      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6c3YkK9oiOi7YJmZ9QO1jF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+    </div>
   </div>
 </body>
