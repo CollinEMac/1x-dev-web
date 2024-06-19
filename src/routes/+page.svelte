@@ -12,7 +12,7 @@
           <a href="https://open.spotify.com/show/1eXZqdw1wIgEmkpmi24ppX?si=e1d4c1866e2b4e67" target="_blank">
             <Menubar.Item>Spotify</Menubar.Item>
           </a>
-          <a href="https://www.youtube.com/channel/UCqasnYHmAYu2-7Ei6Fhh6cw" target="_blank">
+          <a href="https://www.youtube.com/@1xDeveloperPodcast" target="_blank">
             <Menubar.Item>YouTube</Menubar.Item>
           </a>
         </Menubar.Content>
