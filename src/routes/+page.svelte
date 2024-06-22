@@ -9,6 +9,30 @@
       <Menubar.Menu>
         <Menubar.Trigger>Listen Now</Menubar.Trigger>
         <Menubar.Content class="bg-slate-700 text-slate-200">
+          <a href="https://music.amazon.com/podcasts/beceeebd-ff7a-4ef6-8cef-e894acf877f0/1x-developer-podcast" target="_blank">
+            <Menubar.Item>Amazon Music</Menubar.Item>
+          </a>
+          <a href="https://www.deezer.com/us/show/1001021112" target="_blank">
+            <Menubar.Item>Deezer</Menubar.Item>
+          </a>
+          <a href="https://www.listennotes.com/podcasts/1x-developer-podcast-collin-brendan-rYmuWeGgPiS/" target="_blank">
+            <Menubar.Item>Listen Notes</Menubar.Item>
+          </a>
+          <a href="https://player.fm/series/1x-developer-podcast" target="_blank">
+            <Menubar.Item>Player FM</Menubar.Item>
+          </a>
+          <a href="https://www.podchaser.com/podcasts/1x-developer-podcast-5767595" target="_blank">
+            <Menubar.Item>Podchaser</Menubar.Item>
+          </a>
+          <a href="https://podcastaddict.com/podcast/1x-developer-podcast/5182719" target="_blank">
+            <Menubar.Item>Podcast Addict</Menubar.Item>
+          </a>
+          <a href="https://podcastindex.org/podcast/6941234" target="_blank">
+            <Menubar.Item>Podcast Index</Menubar.Item>
+          </a>
+          <a href="https://pca.st/0zytt4nz" target="_blank">
+            <Menubar.Item>Pocket Casts</Menubar.Item>
+          </a>
           <a href="https://open.spotify.com/show/1eXZqdw1wIgEmkpmi24ppX?si=e1d4c1866e2b4e67" target="_blank">
             <Menubar.Item>Spotify</Menubar.Item>
           </a>
