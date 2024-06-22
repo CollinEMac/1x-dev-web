@@ -3,7 +3,7 @@
 </script>
 
 <body class="flex flex-col justify-center items-center text-center pt-5 bg-slate-900 font-mono text-slate-200">
-  <div class="flex items-center justify-center bg-slate-700 w-full">
+  <div class="flex items-center justify-center bg-slate-700">
     <img src="/favicon.png" alt="1x Developer Podcast Logo" width="100px" class="p-4 absolute left-0"/>
     <Menubar.Root class="flex-1 bg-slate-700">
       <Menubar.Menu>
@@ -35,7 +35,7 @@
         1x Developer Podcast
     </h1>
     <div class="pt-5">
-      <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/6c3YkK9oiOi7YJmZ9QO1jF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe  title="embedded-player" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6c3YkK9oiOi7YJmZ9QO1jF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
   </div>
 </body>
