@@ -12,6 +12,9 @@
           <a href="https://music.amazon.com/podcasts/beceeebd-ff7a-4ef6-8cef-e894acf877f0/1x-developer-podcast" target="_blank">
             <Menubar.Item>Amazon Music</Menubar.Item>
           </a>
+          <a href="https://podcasts.apple.com/us/podcast/1x-developer-podcast/id1752623585" target="_blank">
+            <Menubar.Item>Apple Podcasts</Menubar.Item>
+          </a>
           <a href="https://www.deezer.com/us/show/1001021112" target="_blank">
             <Menubar.Item>Deezer</Menubar.Item>
           </a>
