@@ -62,7 +62,7 @@
         1x Developer Podcast
     </h1>
     <div class="pt-5">
-      <iframe  title="embedded-player" style="border-radius:12px" src="https://open.spotify.com/embed/episode/6c3YkK9oiOi7YJmZ9QO1jF?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+      <iframe title="embedded-player" style="border-radius:12px" src="https://open.spotify.com/embed/show/1eXZqdw1wIgEmkpmi24ppX?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
     </div>
   </div>
 </body>
